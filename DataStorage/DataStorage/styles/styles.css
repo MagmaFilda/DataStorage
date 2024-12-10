@@ -112,11 +112,11 @@ body{
 .bubble:after{
     content: '';
     position: absolute;
-    bottom: -30px;  /* Posunutí trojúhelníku níže */
-    right: 0;     /* Posunutí trojúhelníku doprava (zvětšení od levé strany) */
+    bottom: -30px;  
+    right: 0;     
     width: 0;
     height: 0;
-    border-left: 40px solid transparent;   /* Zvětšení levé strany trojúhelníku */
+    border-left: 40px solid transparent;  
     border-top: 40px solid white;
 }
 .bubble-text{
